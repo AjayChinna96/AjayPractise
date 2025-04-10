@@ -1,32 +1,33 @@
 const productData = {
   sarees: [
-    { name: "Silk Saree", image: "images/one1.jpg" },
-    { name: "Cotton Saree", image: "images/one2.jpg" },
-    { name: "Silk Saree", image: "images/one1.jpg" },
-    { name: "Cotton Saree", image: "images/one2.jpg" },
-    { name: "Silk Saree", image: "images/one1.jpg" },
-    { name: "Cotton Saree", image: "images/one2.jpg" },
-    { name: "Silk Saree", image: "images/one1.jpg" },
-    { name: "Cotton Saree", image: "images/one2.jpg" },
-    { name: "Silk Saree", image: "images/one1.jpg" },
-    { name: "Cotton Saree", image: "images/one2.jpg" },
-    { name: "Silk Saree", image: "images/one1.jpg" },
-    { name: "Cotton Saree", image: "images/one2.jpg" }
+    { name: "Silk Saree", image: "one1.jpg" },
+    { name: "Cotton Saree", image: "one2.jpg" },
+    { name: "Silk Saree", image: "one1.jpg" },
+    { name: "Cotton Saree", image: "one2.jpg" },
+    { name: "Silk Saree", image: "one1.jpg" },
+    { name: "Cotton Saree", image: "one2.jpg" },
+    { name: "Silk Saree", image: "one1.jpg" },
+    { name: "Cotton Saree", image: "one2.jpg" },
+    { name: "Silk Saree", image: "one1.jpg" },
+    { name: "Cotton Saree", image: "one2.jpg" },
+    { name: "Silk Saree", image: "one1.jpg" },
+    { name: "Cotton Saree", image: "one2.jpg" }
+   
     
   ],
   kurtas: [
-    { name: "Printed Kurta", image: "images/two1.jpg" },
-    { name: "Anarkali Kurta", image: "images/two2.jpg" },
-    { name: "Printed Kurta", image: "images/two1.jpg" },
-    { name: "Anarkali Kurta", image: "images/two2.jpg" },
-    { name: "Printed Kurta", image: "images/two1.jpg" },
-    { name: "Anarkali Kurta", image: "images/two2.jpg" },
-    { name: "Printed Kurta", image: "images/two1.jpg" },
-    { name: "Anarkali Kurta", image: "images/two2.jpg" },
-    { name: "Printed Kurta", image: "images/two1.jpg" },
-    { name: "Anarkali Kurta", image: "images/two2.jpg" },
-    { name: "Printed Kurta", image: "images/two1.jpg" },
-    { name: "Anarkali Kurta", image: "images/two2.jpg" }
+    { name: "Printed Kurta", image: "two1.jpg" },
+    { name: "Anarkali Kurta", image: "two2.jpg" },
+    { name: "Printed Kurta", image: "two1.jpg" },
+    { name: "Anarkali Kurta", image: "two2.jpg" },
+    { name: "Printed Kurta", image: "two1.jpg" },
+    { name: "Anarkali Kurta", image: "two2.jpg" },
+    { name: "Printed Kurta", image: "two1.jpg" },
+    { name: "Anarkali Kurta", image: "two2.jpg" },
+    { name: "Printed Kurta", image: "two1.jpg" },
+    { name: "Anarkali Kurta", image: "two2.jpg" },
+    { name: "Printed Kurta", image: "two1.jpg" },
+    { name: "Anarkali Kurta", image: "two2.jpg" }
   ],
   lehangas: [
     { name: "Bridal Lehenga", image: "https://via.placeholder.com/180x240?text=Bridal+Lehenga" },
